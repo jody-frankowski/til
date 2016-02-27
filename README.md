@@ -6,8 +6,13 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 ### Categories
 
+- [linux](#linux)
 - [linux-kernel](#linux-kernel)
 - [unix](#unix)
+
+### Linux
+
+- [iptables-apply](linux/iptables-apply.md)
 
 ### Linux kernel
 
