@@ -8,6 +8,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 - [linux](#linux)
 - [linux-kernel](#linux-kernel)
+- [postgres](#postgres)
 - [unix](#unix)
 
 ### Linux
@@ -18,6 +19,10 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 - [No Read Execution](linux-kernel/no-read-execution.md)
 - [No Setuid On Scripts](linux-kernel/no-setuid-on-scripts.md)
+
+### Postgres
+
+- [Write Ahead Logs](postgres/wal.md)
 
 ### Unix
 
