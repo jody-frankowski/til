@@ -27,3 +27,4 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### Unix
 
 - [File Attributes](unix/file-attributes.md)
+- [ELF Debug Link](unix/elf-debug-link.md)
