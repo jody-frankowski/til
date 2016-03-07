@@ -1,6 +1,6 @@
 # debuginfo-install
 
-On CentOS/RHEL there is this neat little tool, *debuginfo-install*.
+On CentOS/RHEL there is this neat little tool, `debuginfo-install`.
 It can be found in the `yum-utils` package, and you can use it to download
 the '-debuginfo' package of any version of any package and its dependencies.
 
