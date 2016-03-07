@@ -1,10 +1,10 @@
 # debuginfo-install
 
-On CentOs/RHEL there is this neat little tool, *debuginfo-install*.
+On CentOS/RHEL there is this neat little tool, *debuginfo-install*.
 It can be found in the `yum-utils` package, and you can use it to download
 the '-debuginfo' package of any version of any package and its dependencies.
 
-What is really nice about this tool, it's that CentOs' gdb has been modified
+What is really nice about this tool, it's that CentOS' gdb has been modified
 to warn about missing symbols and propose the right `debuginfo-install` command:
 
 ```sh
