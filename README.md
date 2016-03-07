@@ -6,10 +6,15 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 ### Categories
 
+- [centos](#centos)
 - [linux](#linux)
 - [linux-kernel](#linux-kernel)
 - [postgres](#postgres)
 - [unix](#unix)
+
+### CentOs
+
+- [debuginfo-install](centos/debuginfo-install.md)
 
 ### Linux
 
