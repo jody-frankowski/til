@@ -9,6 +9,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [CentOS](#centos)
 - [Linux](#linux)
 - [Linux Kernel](#linux-kernel)
+- [Mysql](#mysql)
 - [Postgres](#postgres)
 - [Unix](#unix)
 
@@ -24,6 +25,10 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 - [No Read Execution](linux-kernel/no-read-execution.md)
 - [No Setuid On Scripts](linux-kernel/no-setuid-on-scripts.md)
+
+### Mysql
+
+- [MMM checks](mysql/mmm-checks.md)
 
 ### Postgres
 
