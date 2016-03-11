@@ -25,6 +25,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 - [No Read Execution](linux-kernel/no-read-execution.md)
 - [No Setuid On Scripts](linux-kernel/no-setuid-on-scripts.md)
+- [Reboot on panic](linux-kernel/reboot-on-panic.md)
 
 ### Mysql
 
