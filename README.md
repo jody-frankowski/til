@@ -20,6 +20,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### Linux
 
 - [iptables-apply](linux/iptables-apply.md)
+- [IPVS Connection Synchronization](linux/ipvs-connection-synchronization.md)
 
 ### Linux kernel
 
