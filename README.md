@@ -39,6 +39,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 ### Unix
 
+- [Cron at Reboot](unix/cron-at-reboot.md)
 - [RS in awk](unix/awk-rs.md)
 - [ELF Debug Link](unix/elf-debug-link.md)
 - [File Attributes](unix/file-attributes.md)
