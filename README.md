@@ -47,3 +47,4 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [File Attributes](unix/file-attributes.md)
 - [Load Average In Different Unix Systems](unix/load-average-calculation.md)
 - [postcat](unix/postcat.md)
+- [xxd](unix/xxd.md)
