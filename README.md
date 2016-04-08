@@ -12,6 +12,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Mysql](#mysql)
 - [Postgres](#postgres)
 - [Unix](#unix)
+- [Vim](#vim)
 
 ### CentOS
 
@@ -48,3 +49,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Load Average In Different Unix Systems](unix/load-average-calculation.md)
 - [postcat](unix/postcat.md)
 - [xxd](unix/xxd.md)
+
+### Vim
+
+- [Vim](vim/vimdiff-keybindings.md)
