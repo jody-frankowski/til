@@ -7,6 +7,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### Categories
 
 - [CentOS](#centos)
+- [Git](#git)
 - [Linux](#linux)
 - [Linux Kernel](#linux-kernel)
 - [Mysql](#mysql)
@@ -17,6 +18,10 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### CentOS
 
 - [debuginfo-install](centos/debuginfo-install.md)
+
+### Git
+
+- [Merge Two Repos](git/merge-two-repos.md)
 
 ### Linux
 
