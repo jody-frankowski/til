@@ -47,6 +47,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 ### Unix
 
+- [ACL Mask](unix/acl-mask.md)
 - [Cron at Reboot](unix/cron-at-reboot.md)
 - [RS in awk](unix/awk-rs.md)
 - [ELF Debug Link](unix/elf-debug-link.md)
