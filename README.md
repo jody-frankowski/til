@@ -11,6 +11,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Linux](#linux)
 - [Linux Kernel](#linux-kernel)
 - [Mysql](#mysql)
+- [OpenBSD](#openbsd)
 - [Postgres](#postgres)
 - [Unix](#unix)
 - [Vim](#vim)
@@ -40,6 +41,10 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### Mysql
 
 - [MMM checks](mysql/mmm-checks.md)
+
+### OpenBSD
+
+- [rcctl](openbsd/rcctl.md)
 
 ### Postgres
 
