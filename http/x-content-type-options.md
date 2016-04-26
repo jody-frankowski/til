@@ -1,4 +1,4 @@
-# x-content-type-options
+# X-Content-Type-Options
 
 The `X-Content-Type-Options` HTTP header with the only value `nosniff` can be
 used to tell the browser not to do
