@@ -8,6 +8,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 - [CentOS](#centos)
 - [Git](#git)
+- [HTTP](#http)
 - [Linux](#linux)
 - [Linux Kernel](#linux-kernel)
 - [Mysql](#mysql)
@@ -23,6 +24,10 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### Git
 
 - [Merge Two Repos](git/merge-two-repos.md)
+
+### HTTP
+
+- [X-Content-Type-Options](http/x-content-type-options.md)
 
 ### Linux
 
