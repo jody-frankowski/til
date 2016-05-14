@@ -14,6 +14,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Mysql](#mysql)
 - [OpenBSD](#openbsd)
 - [Postgres](#postgres)
+- [Tmux](#tmux)
 - [Unix](#unix)
 - [Vim](#vim)
 
@@ -55,6 +56,10 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### Postgres
 
 - [Write Ahead Logs](postgres/wal.md)
+
+### Tmux
+
+- [Tmux and environment variables](tmux/environment-variables.md)
 
 ### Unix
 
