@@ -51,6 +51,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 ### OpenBSD
 
+- [Package search](openbsd/package-search.md)
 - [rcctl](openbsd/rcctl.md)
 
 ### Postgres
