@@ -18,6 +18,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Tmux](#tmux)
 - [Unix](#unix)
 - [Vim](#vim)
+- [Virtualization](#virtualization)
 
 ### Brocade
 
@@ -82,3 +83,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### Vim
 
 - [Vim](vim/vimdiff-keybindings.md)
+
+### Virtualization
+
+- [Thin Provisioning](virtualization/thin-provisioning.md)
