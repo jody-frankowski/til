@@ -76,6 +76,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [RS in awk](unix/awk-rs.md)
 - [ELF Debug Link](unix/elf-debug-link.md)
 - [File Attributes](unix/file-attributes.md)
+- [ISO 8601 Dates](unix/iso-8601-dates.md)
 - [Load Average In Different Unix Systems](unix/load-average-calculation.md)
 - [postcat](unix/postcat.md)
 - [xxd](unix/xxd.md)
