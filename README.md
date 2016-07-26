@@ -88,3 +88,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### Virtualization
 
 - [Thin Provisioning](virtualization/thin-provisioning.md)
+
+### ZFS
+
+- [Zpool Versions and Feature Flags](zfs/zpool-versions-feature-flags.md)
