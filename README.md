@@ -39,6 +39,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 ### Linux
 
+- [File Creation Time](linux/file-creation-time.md)
 - [iptables-apply](linux/iptables-apply.md)
 - [IPVS Connection Synchronization](linux/ipvs-connection-synchronization.md)
 - [Journal Persistent Storage](linux/journal-persistent-storage.md)
