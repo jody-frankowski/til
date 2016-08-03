@@ -6,6 +6,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 ### Categories
 
+- [Ansible](#ansible)
 - [Brocade](#brocade)
 - [CentOS](#centos)
 - [Git](#git)
@@ -19,6 +20,10 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Unix](#unix)
 - [Vim](#vim)
 - [Virtualization](#virtualization)
+
+### Ansible
+
+- [ansible-console](ansible/ansible-console.md)
 
 ### Brocade
 
