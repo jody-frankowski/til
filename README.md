@@ -36,6 +36,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### Git
 
 - [Merge Two Repos](git/merge-two-repos.md)
+- [Sparse Checkout](git/sparse-checkout.md)
 
 ### HTTP
 
