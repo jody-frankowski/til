@@ -64,6 +64,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### OpenBSD
 
 - [Coreutils](openbsd/coreutils.md)
+- [List Files of a Package](openbsd/list-files-package.md)
 - [Package search](openbsd/package-search.md)
 - [Setting the Mirror URL](openbsd/mirror.md)
 - [rcctl](openbsd/rcctl.md)
