@@ -20,6 +20,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Vim](#vim)
 - [Virtualization](#virtualization)
 - [Web](#web)
+- [ZFS](#zfs)
 
 ### Ansible
 
