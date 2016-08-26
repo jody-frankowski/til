@@ -10,7 +10,6 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Brocade](#brocade)
 - [CentOS](#centos)
 - [Git](#git)
-- [HTTP](#http)
 - [Linux](#linux)
 - [Linux Kernel](#linux-kernel)
 - [Mysql](#mysql)
@@ -20,6 +19,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Unix](#unix)
 - [Vim](#vim)
 - [Virtualization](#virtualization)
+- [Web](#web)
 
 ### Ansible
 
@@ -37,11 +37,6 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 - [Merge Two Repos](git/merge-two-repos.md)
 - [Sparse Checkout](git/sparse-checkout.md)
-
-### HTTP
-
-- [Expires, Cache-Control, Age and Etag](http/expires-cache-control-age-etag.md)
-- [X-Content-Type-Options](http/x-content-type-options.md)
 
 ### Linux
 
@@ -97,6 +92,11 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### Virtualization
 
 - [Thin Provisioning](virtualization/thin-provisioning.md)
+
+### Web
+
+- [Expires, Cache-Control, Age and Etag](http/expires-cache-control-age-etag.md)
+- [X-Content-Type-Options](http/x-content-type-options.md)
 
 ### ZFS
 
