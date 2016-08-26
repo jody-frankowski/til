@@ -96,9 +96,9 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 ### Web
 
-- [Browser Refresh](http/browser-refresh.md)
-- [Expires, Cache-Control, Age and Etag](http/expires-cache-control-age-etag.md)
-- [X-Content-Type-Options](http/x-content-type-options.md)
+- [Browser Refresh](web/browser-refresh.md)
+- [Expires, Cache-Control, Age and Etag](web/expires-cache-control-age-etag.md)
+- [X-Content-Type-Options](web/x-content-type-options.md)
 
 ### ZFS
 
