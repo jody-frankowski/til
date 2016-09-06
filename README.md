@@ -21,6 +21,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Virtualization](#virtualization)
 - [Web](#web)
 - [ZFS](#zfs)
+- [zsh](#zsh)
 
 ### Ansible
 
@@ -103,3 +104,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### ZFS
 
 - [Zpool Versions and Feature Flags](zfs/zpool-versions-feature-flags.md)
+
+### ZSH
+
+- [ZSH_EVAL_CONTEXT](zsh/zsh-eval-context.md)
