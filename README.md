@@ -103,6 +103,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 ### ZFS
 
+- [Mount Points](zfs/mount-points.md)
 - [Zpool Versions and Feature Flags](zfs/zpool-versions-feature-flags.md)
 
 ### ZSH
