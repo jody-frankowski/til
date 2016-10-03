@@ -89,7 +89,8 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 ### Vim
 
-- [Vim](vim/vimdiff-keybindings.md)
+- [Surround](vim/surround.md)
+- [Vimdiff Keybindings](vim/vimdiff-keybindings.md)
 
 ### Virtualization
 
