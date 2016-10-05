@@ -9,6 +9,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Ansible](#ansible)
 - [Brocade](#brocade)
 - [CentOS](#centos)
+- [Email](#email)
 - [Git](#git)
 - [Linux](#linux)
 - [Linux Kernel](#linux-kernel)
@@ -34,6 +35,10 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### CentOS
 
 - [debuginfo-install](centos/debuginfo-install.md)
+
+### Email
+
+- [Subaddressing](email/subaddressing.md)
 
 ### Git
 
