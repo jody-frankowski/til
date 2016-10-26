@@ -90,6 +90,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [File Attributes](unix/file-attributes.md)
 - [ISO 8601 Dates](unix/iso-8601-dates.md)
 - [Less Case Insensitive Search](unix/less-case-insensitive-search.md)
+- [Less Security Mode](unix/less-security-mode.md)
 - [Load Average In Different Unix Systems](unix/load-average-calculation.md)
 - [postcat](unix/postcat.md)
 - [xxd](unix/xxd.md)
