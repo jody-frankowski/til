@@ -87,6 +87,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Cron at Reboot](unix/cron-at-reboot.md)
 - [RS in awk](unix/awk-rs.md)
 - [ELF Debug Link](unix/elf-debug-link.md)
+- [/etc/ethers](unix/etc-ethers.md)
 - [File Attributes](unix/file-attributes.md)
 - [ISO 8601 Dates](unix/iso-8601-dates.md)
 - [Less Case Insensitive Search](unix/less-case-insensitive-search.md)
