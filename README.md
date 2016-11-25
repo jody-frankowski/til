@@ -89,6 +89,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [ELF Debug Link](unix/elf-debug-link.md)
 - [/etc/ethers](unix/etc-ethers.md)
 - [File Attributes](unix/file-attributes.md)
+- [Grub Default Boot Choice](unix/grub-default-boot-choice.md)
 - [ISO 8601 Dates](unix/iso-8601-dates.md)
 - [Less Case Insensitive Search](unix/less-case-insensitive-search.md)
 - [Less Security Mode](unix/less-security-mode.md)
