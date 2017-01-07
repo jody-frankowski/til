@@ -21,6 +21,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Vim](#vim)
 - [Virtualization](#virtualization)
 - [Web](#web)
+- [Wireshark](#wireshark)
 - [ZFS](#zfs)
 - [zsh](#zsh)
 
@@ -111,6 +112,10 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Browser Refresh](web/browser-refresh.md)
 - [Expires, Cache-Control, Age and Etag](web/expires-cache-control-age-etag.md)
 - [X-Content-Type-Options](web/x-content-type-options.md)
+
+### Wireshark
+
+- [SSLKEYLOGFILE](wireshark/sslkeylogfile.md)
 
 ### ZFS
 
