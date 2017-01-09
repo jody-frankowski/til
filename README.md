@@ -7,6 +7,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### Categories
 
 - [Ansible](#ansible)
+- [Bash](#bash)
 - [Brocade](#brocade)
 - [CentOS](#centos)
 - [Email](#email)
@@ -32,6 +33,10 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### Brocade
 
 - [Brocades different versions commands](brocade/versions-commands.md)
+
+### Bash
+
+- [PS4](bash/ps4.md)
 
 ### CentOS
 
