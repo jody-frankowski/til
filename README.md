@@ -37,6 +37,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### Bash
 
 - [PS4](bash/ps4.md)
+- [`read` return value](bash/read-return-value.md)
 
 ### CentOS
 
