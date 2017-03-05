@@ -11,6 +11,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Brocade](#brocade)
 - [CentOS](#centos)
 - [Email](#email)
+- [Gentoo](#gentoo)
 - [Git](#git)
 - [Linux](#linux)
 - [Linux Kernel](#linux-kernel)
@@ -47,6 +48,10 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 - [Disposition-Notification-To Header](email/disposition-notification-to-header.md)
 - [Subaddressing](email/subaddressing.md)
+
+### Gentoo
+
+- [Kernel Patches](gentoo/kernel-patches.md)
 
 ### Git
 
