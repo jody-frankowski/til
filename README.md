@@ -10,6 +10,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Bash](#bash)
 - [Brocade](#brocade)
 - [CentOS](#centos)
+- [Ceph](#ceph)
 - [Email](#email)
 - [Gentoo](#gentoo)
 - [Git](#git)
@@ -44,6 +45,11 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### CentOS
 
 - [debuginfo-install](centos/debuginfo-install.md)
+
+
+### Ceph
+
+- [`ceph osd set noout`](ceph/osd-set-noout.md)
 
 ### Email
 
