@@ -32,6 +32,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### Ansible
 
 - [ansible-console](ansible/ansible-console.md)
+- [`hash_behaviour`](ansible/hash-behaviour.md)
 
 ### Brocade
 
