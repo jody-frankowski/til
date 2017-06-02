@@ -19,6 +19,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Linux Kernel](#linux-kernel)
 - [Mysql](#mysql)
 - [OpenBSD](#openbsd)
+- [PHP](#php)
 - [Postgres](#postgres)
 - [Tmux](#tmux)
 - [Unix](#unix)
@@ -97,6 +98,10 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Package search](openbsd/package-search.md)
 - [Setting the Mirror URL](openbsd/mirror.md)
 - [rcctl](openbsd/rcctl.md)
+
+### PHP
+
+- [APC OPcache and APCu](php/apc-opcache-apcu.md)
 
 ### Postgres
 
