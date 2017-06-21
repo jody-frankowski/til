@@ -21,6 +21,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [OpenBSD](#openbsd)
 - [PHP](#php)
 - [Postgres](#postgres)
+- [Python](#python)
 - [Tmux](#tmux)
 - [Unix](#unix)
 - [Vim](#vim)
@@ -108,6 +109,10 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### Postgres
 
 - [Write Ahead Logs](postgres/wal.md)
+
+### Python
+
+- [`PYTHONPATH`](python/pythonpath.md)
 
 ### Tmux
 
