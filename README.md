@@ -79,6 +79,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [IPVS Connection Synchronization](linux/ipvs-connection-synchronization.md)
 - [Journal Persistent Storage](linux/journal-persistent-storage.md)
 - [tshark](linux/tshark.md)
+- [`update-ca-trust`](linux/update-ca-trust.md)
 
 ### Linux kernel
 
