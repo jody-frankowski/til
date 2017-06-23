@@ -160,6 +160,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 
 ### ZFS
 
+- [ARC and L2ARC](zfs/arc-l2arc.md)
 - [Mount Points](zfs/mount-points.md)
 - [Zpool Versions and Feature Flags](zfs/zpool-versions-feature-flags.md)
 
