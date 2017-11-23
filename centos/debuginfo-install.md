@@ -33,7 +33,7 @@ Installing for dependencies:
  glibc-debuginfo-common                                           x86_64                                2.12-1.166.el6_7.3                                      base-debuginfo                                8.3 M
 ```
 
-As you can see it installed all the assiocated '-debuginfo' packages of
+As you can see it installed all the associated '-debuginfo' packages of
 the dependencies of httpd in this case.
 Once you have run this command and installed all the needed packages, gdb
 should find all the debug symbols it needs.
