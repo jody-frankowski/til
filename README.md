@@ -14,6 +14,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Email](#email)
 - [Gentoo](#gentoo)
 - [Git](#git)
+- [Go](#go)
 - [KVM](#kvm)
 - [Linux](#linux)
 - [Linux Kernel](#linux-kernel)
@@ -69,6 +70,10 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Global Gitignore](git/global-gitignore.md)
 - [Merge Two Repos](git/merge-two-repos.md)
 - [Sparse Checkout](git/sparse-checkout.md)
+
+### Go
+
+- [Update All Packages](go/update-all-packages.md)
 
 ### KVM
 
