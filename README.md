@@ -15,6 +15,7 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 - [Gentoo](#gentoo)
 - [Git](#git)
 - [Go](#go)
+- [Kubernetes](#kubernetes)
 - [KVM](#kvm)
 - [Linux](#linux)
 - [Linux Kernel](#linux-kernel)
@@ -78,6 +79,10 @@ Original idea by [Thouthbot's TIL](https://github.com/thoughtbot/til).
 ### KVM
 
 - [KVM Hypervisor Type](kvm/hypervisor-type.md)
+
+### Kubernetes
+
+- [Troubleshooting a ReplicaSet](kubernetes/troubleshooting-a-replicaset.md)
 
 ### Linux
 
